@@ -1,0 +1,20 @@
+package com.dsa.vo;
+
+/**
+ * 학생 정보
+ */
+public class Student {
+
+	// 멤버변수
+	
+	// 생성자
+
+	// 엑세서(Getter & Setter)
+
+	// equals() & hashCode()
+	
+	// compareTo()
+
+	// toString() 사용
+	
+}

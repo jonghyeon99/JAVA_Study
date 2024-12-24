@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;chapter01.data.Coo7_Constant.java&apos; to &apos;C007_Constant.java&apos;&#x0D;&#x0A;- Original project: &apos;javaSE&apos;&#x0D;&#x0A;- Original element: &apos;chapter01.data.Coo7_Constant.java&apos;&#x0D;&#x0A;- Renamed element: &apos;chapter01.data.C007_Constant.java&apos;" description="Rename compilation unit &apos;Coo7_Constant.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;chapter01.data{Coo7_Constant.java" name="C007_Constant.java" references="false" stamp="1728631210250" version="1.0"/>
+</session>

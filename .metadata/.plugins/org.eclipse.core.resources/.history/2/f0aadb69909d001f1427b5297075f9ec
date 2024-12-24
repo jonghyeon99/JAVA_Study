@@ -1,0 +1,16 @@
+package com.dsa.vo;
+
+/**
+ * 성적 정보
+ */
+public class Score {
+
+	// 멤버변수
+	
+	// 생성자
+
+	// 엑세서(Getter & Setter)
+
+	// toString() 사용
+	
+}
